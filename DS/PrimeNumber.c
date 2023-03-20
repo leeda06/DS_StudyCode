@@ -42,6 +42,7 @@ int main(void) {
 
 		if (k == 0) printf("%d, ", i);
 		k = 0;
+
 	}
 
 	t2 = clock();

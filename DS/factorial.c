@@ -8,7 +8,6 @@ int factorial (int n) {
 
 int main(void) {
 	int n = 5;
-
 	printf("%d != %d\n", n, factorial(n));
 
 }

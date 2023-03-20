@@ -3,8 +3,8 @@
 
 int main(void) {
 	int n, i, j, k = 1, cnt = 0;
-	char answer;
 	int b[8] = { 0 };
+	char answer;
 
 	printf("알아맞힐 숫자의 범위 입력: 0 ~ ");
 	scanf_s("%d", &n);
