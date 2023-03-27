@@ -27,5 +27,8 @@
     <ClCompile Include="factorial_main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="HanoiTower.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
