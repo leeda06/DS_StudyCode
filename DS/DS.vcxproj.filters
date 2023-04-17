@@ -36,5 +36,11 @@
     <ClCompile Include="PointerAndArray.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="arrary2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="array2-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
