@@ -51,5 +51,11 @@
     <ClCompile Include="StackArrary.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="StackLinedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MazeSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
