@@ -81,5 +81,8 @@
     <ClCompile Include="LinearQueueLinkedList.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="LeftRightBalancedTree.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
