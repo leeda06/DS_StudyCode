@@ -117,5 +117,11 @@
     <ClCompile Include="quickSort_stackOverflow_test.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="RePermutation1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RePermutation2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
