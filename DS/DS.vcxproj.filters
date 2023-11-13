@@ -123,5 +123,8 @@
     <ClCompile Include="RePermutation2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="permutation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
