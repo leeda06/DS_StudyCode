@@ -126,5 +126,8 @@
     <ClCompile Include="permutation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Combination.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
